@@ -1,0 +1,14 @@
+.espacador {
+    flex: 1 1 auto;
+  }
+span {
+    padding: 5px;
+}
+img {
+    width: 80px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
