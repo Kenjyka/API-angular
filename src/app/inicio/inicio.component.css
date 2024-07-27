@@ -25,12 +25,19 @@ mat-grid-tile {
     padding: 2px;
     border-radius: 30px;
     height: fit-content;
+    max-width: 33%;
+    width: 33%;
 }
 
-mat-grid-tile-content {
+.mat-grid-tile-content {
     height: 500px;
+    max-width: 100px;
+    width: 100px;
 }
-
+mat-card {
+    width: 200px;
+    height: 300px;
+}
 mat-card-header {
     display: flex;
     align-items: center;
@@ -46,10 +53,17 @@ mat-card-actions p {
     color: red;
     font-size: 1em;
 }
+mat-card-title {
+    word-wrap: break-word;
+}
 
 mat-card img {
     height: 100px;
-    width: 100%;
+}
+
+mat-card-content {
+    overflow-y: scroll;
+    text-align: center;
 }
 
 h2 {

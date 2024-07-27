@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "dark souls 2",
+      "descricao": "A segunda iteração da saga souls",
+      "foto": "jogo1.jpg",
+      "preco": 300
+    },
+    {
+      "id": "2",
+      "produto": "castlevania",
+      "descricao": "O mais glorificado dos castlevania",
+      "foto": "jogo2.jpg",
+      "preco": 200
+    },
+    {
+      "id": "3",
+      "produto": "persona 5 royal",
+      "descricao": "Versão definitiva da série shin megami tensei: persona 5 da Atlus",
+      "foto": "jogo3.jpg",
+      "preco": 450
+    },
+    {
+      "id": 0,
+      "produto": "jogo 4",
+      "descricao": "Descrição do jogo 4",
+      "foto": "jogo1.jpg",
+      "preco": 548
+    }
+  ]
+}
